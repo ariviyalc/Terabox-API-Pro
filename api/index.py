@@ -43,16 +43,24 @@ logger = logging.getLogger(__name__)
 
 # TESTED COOKIES (Updated 2024-06-23)
 COOKIES = {
-    'ndut_fmt': '082E0D57C65BDC31F6FF293F5D23164958B85D6952CCB6ED5D8A3870CB302BE7',
-    'ndus': 'Y-wWXKyteHuigAhC03Fr4bbee-QguZ4JC6UAdqap',
-    '__bid_n': '196ce76f980a5dfe624207',
-    '__stripe_mid': '148f0bd1-59b1-4d4d-8034-6275095fc06f99e0e6',
-    '__stripe_sid': '7b425795-b445-47da-b9db-5f12ec8c67bf085e26',
-    'browserid': 'veWFJBJ9hgVgY0eI9S7yzv66aE28f3als3qUXadSjEuICKF1WWBh4inG3KAWJsAYMkAFpH2FuNUum87q',
-    'csrfToken': 'wlv_WNcWCjBtbNQDrHSnut2',
+    'ndut_fmt': 'A71BF91DCB40808A0B863C989C4EFCD8CAD91E3CBA7683990C995CA0915497F7',
+    'ndus': 'YqrSKB9peHuidegF9kYwOE1po4RZY4O8eTwol-eX',
+    '__bid_n': '199b3d4dac12ffc6734207',
+    '__stripe_mid': '6b6fc8a1-14e3-4c97-9b97-348f8f9b2f971d8f26',
+    '__stripe_sid': '2980f9a6-83e3-4b79-837f-9a199248bf7bcb7fdd',
+    'browserid': 'WSiqPK9jn0VX8ysG016pFXnx25rldcCJBy6uip-ZJLJS-pCfpNuViagZcgM=',
+    'csrfToken': 'AaJpCKdpkAfN99gPXWwWRBjH',
     'lang': 'en',
-    'PANWEB': '1',
-    'ab_sr': '1.0.1_NjA1ZWE3ODRiYjJiYjZkYjQzYjU4NmZkZGVmOWYxNDg4MjU3ZDZmMTg0Nzg4MWFlNzQzZDMxZWExNmNjYzliMGFlYjIyNWUzYzZiODQ1Nzg3NWM0MzIzNWNiYTlkYTRjZTc0ZTc5ODRkNzg4NDhiMTljOGRiY2I4MzY4ZmYyNTU5ZDE5NDczZmY4NjJhMDgyNjRkZDI2MGY5M2Q5YzIyMg=='
+    '_ga_06ZNKL8C2EZNKLGS2.1.s1759667572$o1$g1$t1759667832$j60$l0$h0',
+    'TSID': 'LD3QjQKlduK7xu1Kyfvge1ontDCXYeXU',
+    'ri':'dm',    
+   '_fbp':'fb.1.1759658904291.90553625297751222',
+    '_ga':'GA1.1.1283748697.1759658902', '_rdt_uuid':'1759658903754.b24237cd-e072-4ad2-be54-25c08493574e',
+  '_rdt_em':':551f712f5482976e58b6452b689f4caccdf06cb17c976039dfaba99e208a411b,1746df1cd834da9a501f5e44954a29cd19172d0890596930b64987429616b06d',
+
+   '_gcl_au':'1.1.1741068708.1759658902',
+   '_ga_HSVH9T016H':'GS2.1.s1759667446$o2$g1$t1759671104$j58$l0$h0'
+
 }
 
 # FIXED HEADERS AS REQUESTED
